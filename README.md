@@ -1,1 +1,1 @@
-A simple command-line application.
+# A package for easy access to the dahliaOS lints
